@@ -1,11 +1,13 @@
 #include<stdio.h>
 
-int main(){
-
-	return 0;
-}
 void hello(){
 	printf("Hello everyone!!");
+}
+
+
+int main(){
+	printf("checking the fetch command!");
+	return 0;
 }
 	
 
