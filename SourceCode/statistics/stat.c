@@ -1,0 +1,5 @@
+float mean()
+{}
+
+float mode()
+{}
